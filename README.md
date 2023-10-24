@@ -7,4 +7,4 @@ Step 2. Open the HTML file in your favorite browser
 
 Step 3. Copy everything
 
-Step 4. Paste it in Google Docs
+Step 4. Paste it to Google Docs

@@ -1,5 +1,4 @@
-# How to preview the Atlas JSON file in HTML format.
-## From there you can copy-paste it to Google docs etc.
+# How to preview the Atlas JSON file with a smooth look in Google Docs
 
 Step 1. Replace Json data in the HTML-file using e.g. Sublime.
 Everything below line 27 var jsonData = { down to }//
